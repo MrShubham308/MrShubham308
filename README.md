@@ -22,7 +22,7 @@
 
 I am a **Staff Software Engineer** specializing in **Distributed Systems, Cloud-Native Architectures, and AI Infrastructure**. My engineering philosophy centers on building deterministic, fault-tolerant systems that operate seamlessly at hyper-scale. Driven by mechanical sympathy and rigorous systems design, I bridge the gap between complex research and production-grade reliability.
 
-*   🎓 **Education:** M.S. in Computer Science & Engineering • Stanford University
+*   🎓 **Education:**deen dayal upadhyaya gorakhpur university Gorakhpur
 *   🎯 **Career Goals:** Architecting the next generation of real-time multi-agent AI execution layers and ultra-low latency state stores.
 *   🧠 **Specialization:** High-throughput event-driven microservices, consensus protocols (Raft/Paxos), consensus-backed caching, and high-performance Rust core modules.
 
