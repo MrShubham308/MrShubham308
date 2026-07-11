@@ -1,20 +1,48 @@
 # ⚡ Hello World, I'm Shubham Vishwakarma 👋
 
+# ⚡ Hello World, I'm Shubham Vishwakarma 👋
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7aa2f7&center=true&vCenter=true&width=700&lines=Staff+Software+Engineer;Distributed+Systems+%7C+Cloud+Native+%7C+AI+Infra;Building+Resilient%2C+Hyper-Scale+Architectures" alt="Typing SVG" />
 </p>
+
 <p align="center">
   <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:itzshubham81@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
-  <a href="https://shubhamvihswakarma.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://leetcode.com/u/mrshubham06/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://shubhamvihswakarma.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://leetcode.com/u/mrshubham06/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alexchen-dev&color=7aa2f7&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Counter"/>
-  <img src="https://img.shields.io/github/followers/alexchen-dev?label=Followers&style=flat-square&color=bb9af7" alt="Followers"/>
+  <img src="https://komarev.com" alt="Visitor Counter"/>
+  <img src="https://shields.io" alt="Followers"/>
+</p>
+
+---
+
+## 🛠️ Tech Stack & Expertise
+
+<p align="left">
+  <!-- Languages -->
+  <img src="https://shields.io" alt="Go"/>
+  <img src="https://shields.io" alt="Python"/>
+  <img src="https://shields.io" alt="C++"/>
+  
+  <!-- Cloud & Infra -->
+  <img src="https://shields.io" alt="Kubernetes"/>
+  <img src="https://shields.io" alt="Docker"/>
+  <img src="https://shields.io" alt="AWS"/>
+  
+  <!-- Data & AI -->
+  <img src="https://shields.io" alt="Kafka"/>
+  <img src="https://shields.io" alt="Redis"/>
+  <img src="https://shields.io" alt="PyTorch"/>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://vercel.app" alt="GitHub Stats" />
 </p>
 
 ---
