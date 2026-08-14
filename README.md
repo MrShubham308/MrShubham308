@@ -66,13 +66,13 @@ I am a **Staff Software Engineer** specializing in **Distributed Systems, Cloud-
 
 | Layer | Technologies |
 | :--- | :--- |
-| **💻 Programming Languages** | `Rust` `Go` `C++` `Python` `TypeScript` `Java` `SQL` |
-| **🎨 Frontend Development** | `Next.js` `React` `TypeScript` `TailwindCSS` `WebAssembly` `GraphQL` |
-| **⚙️ Backend Engineering** | `Node.js` `Gin` `Axum` `Tokio` `Spring Boot` `gRPC` `Protocol Buffers` |
-| **🗄️ Databases** | `PostgreSQL` `ClickHouse` `Redis` `MongoDB` `RocksDB` `Cassandra` |
-| **☁️ Cloud & DevOps** | `AWS` `Kubernetes` `Docker` `Terraform` `GitHub Actions` `Prometheus` `Grafana` |
-| **🤖 Artificial Intelligence** | `PyTorch` `LangChain` `LlamaIndex` `HuggingFace` `vLLM` `Milvus` |
-| **📊 Data Engineering** | `Apache Kafka` `Apache Spark` `Flink` `Airflow` `Snowflake` |
+| **💻 Programming Languages** | `Go` `TypeScript` `Java` `SQL` |
+| **🎨 Frontend Development** | `Next.js` `React` `TypeScript` `TailwindCSS` |
+| **⚙️ Backend Engineering** | `Node.js` |
+| **🗄️ Databases** | `PostgreSQL``MongoDB` |
+| **☁️ Cloud & DevOps** | `GitHub Actions` |
+| **🤖 Artificial Intelligence** | `PyTorch` `chatgpt` `LlamaIndex` |
+| **📊 Data Engineering** | `Apache Kafka` `Apache Spark` |
 | **🔐 Security & Infrastructure** | `eBPF` `HashiCorp Vault` `OAuth2/OIDC` `mTLS` `WireGuard` |
 
 ---
